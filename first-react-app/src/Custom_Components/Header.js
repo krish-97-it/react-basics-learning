@@ -47,7 +47,7 @@ export default function Header(props) {
             <Route exact path='/home' element={< Home />}></Route>
             <Route exact path='/posts' element={< Posts />}></Route>
             <Route exact path='/author' element={< Author />}></Route>
-            <Route exact path='/games' element={< Games gname="Quiz-Corner"/>}></Route>
+            <Route exact path='/games' element={< Games gname="Playing With Text"/>}></Route>
             <Route exact path='/shop' element={< Shop />}></Route>
             <Route exact path='/about' element={< About />}></Route>
             <Route exact path='/contact' element={< Contact phno="8888777723" emailid="myreactapp@gmail.com" />}></Route>

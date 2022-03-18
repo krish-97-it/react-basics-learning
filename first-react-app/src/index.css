@@ -46,3 +46,26 @@ code {
 .custom-footer ul{
   padding-left: 0rem !important;
 }
+.About-Us-Section{
+  padding: 60px 40px 10px 40px;
+  min-height: 80vh;
+}
+.App-header{
+  min-height: 80vh !important;
+}
+.accordion-button{
+  background-color: transparent;
+  color:rgb(98, 110, 121);
+  font-weight: 500;
+}
+.accordion{
+  margin-top: 10px;
+}
+.mark-text{
+  font-weight: 500;
+  color: rgb(204, 19, 204);
+  background-color: transparent;
+}
+.Game-app-header{
+  min-height: 125vh !important;
+}
